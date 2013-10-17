@@ -1,7 +1,7 @@
 {
   "name": "node-js-sample",
   "version": "0.0.2",
-  "description": "a sample node.js app for heroku",
+  "description": "a sample node.js app",
   "main": "web.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,11 +15,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/node-js-sample"
+    "url": "https://github.com/cloudControl/node-js-sample"
   },
   "keywords": [
     "node",
-    "heroku"
   ],
   "author": "Mark Pundsack",
   "license": "BSD",
